@@ -9,4 +9,4 @@ source ~/.bashrc
 
 /usr/local/go/bin/go install github.com/jesseduffield/lazygit@latest
 /usr/local/go/bin/go install github.com/sett17/ai-shell@latest
-ln -s ~/go/bin/ai-shell /usr/local/bin/ai-shell
+sudo ln -s ~/go/bin/ai-shell /usr/local/bin/ai-shell
